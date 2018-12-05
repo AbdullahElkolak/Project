@@ -1,6 +1,6 @@
 /**
 * Server configuration.
-* Created by Kudzai Gopfa on 3/5/2017.
+* Created by Abdullah Elkolak on 12/5/2018.
 * MIT Licensed
 */
 
